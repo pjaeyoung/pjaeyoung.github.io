@@ -2,7 +2,7 @@ module.exports = {
   title: `DODO's DEV LOG`,
   description: `daily life, development, reading, etc.`,
   author: `dodo`,
-  introduction: `프론트엔드 개발자 도도입니다.  일상, 개발, 독서 등 기록을 남기기`,
+  introduction: `프론트엔드 개발자 도도입니다.  일상, 개발, 독서 등을 기록합니다.`,
   siteUrl: `https://pjaeyoung.github.io`, // Your blog site url
   social: {
     github: `pjaeyoung`, // Your GitHub account
