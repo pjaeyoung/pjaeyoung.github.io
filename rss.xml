@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Feb 2021 15:14:56 GMT</lastBuildDate><item><title><![CDATA[08]]></title><description><![CDATA[노마드 투두리스트 대회 참여 1. 결과물 URL https://pjaeyoung.github.io/momontum/ intro
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Feb 2021 14:02:58 GMT</lastBuildDate><item><title><![CDATA[09]]></title><description><![CDATA[코드스테이츠 폴빈님 토크 세션 80-20 내용 정리 회사가 원하는 것은 무엇일까? 기업의 성숙도가 높을수록 실무능력보다 CS를 중시  스타트업은 과제를 주로 냄  어떤 기술을 쓰더라도 깊게 파고들기, 면접시 깊고 상세하게 대답하는 것을 좋아함 (T…]]></description><link>https://pjaeyoung.github.io/Dev/09/</link><guid isPermaLink="false">https://pjaeyoung.github.io/Dev/09/</guid><pubDate>Fri, 19 Feb 2021 19:02:04 GMT</pubDate><content:encoded>&lt;h2 id=&quot;코드스테이츠-폴빈님-토크-세션-80-20&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%ED%8F%B4%EB%B9%88%EB%8B%98-%ED%86%A0%ED%81%AC-%EC%84%B8%EC%85%98-80-20&quot; aria-label=&quot;코드스테이츠 폴빈님 토크 세션 80 20 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;코드스테이츠 폴빈님 토크 세션 80-20&lt;/h2&gt;
+&lt;h3 id=&quot;내용-정리&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC&quot; aria-label=&quot;내용 정리 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내용 정리&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;회사가 원하는 것은 무엇일까?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;기업의 성숙도가 높을수록 실무능력보다 CS를 중시 &lt;/li&gt;
+&lt;li&gt;스타트업은 과제를 주로 냄 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;어떤 기술을 쓰더라도 깊게 파고들기, 면접시 깊고 상세하게 대답하는 것을 좋아함 (T자형 인재)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;집중하라!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vanilla Javascript &amp;#x26; SQL &amp;#x26; Algorithm &amp;#x26; CS 기본 &lt;/li&gt;
+&lt;li&gt;내가 하는 일에 관심 갖기 &lt;/li&gt;
+&lt;li&gt;내가 관심을 갖고 있다는 것을 증명하기&lt;/li&gt;
+&lt;li&gt;큰 개념 -&gt; 작은 부수 개념 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;스스로에 대해 이해하기 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;내가 제어할 수 있는 부분이랑 없는 부분 이해하기 ex) 경력, 학력&lt;/li&gt;
+&lt;li&gt;내 장단점을 명확하게 이해하기&lt;/li&gt;
+&lt;li&gt;내 적성에 맞는 것 찾기&lt;/li&gt;
+&lt;li&gt;이 외에 회사에 어떠한 가치를 제공해줄 수 있는가 생각하기&lt;/li&gt;
+&lt;li&gt;내 North Star 가 무엇인지 생각해보기 (내가 어떤 삶을 추구하는가)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘주니어’가 되지 마세요&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;본인 스스로 경력자라는 사실을 부정하지 말기&lt;/li&gt;
+&lt;li&gt;스스로의 영역을 한정짓지 않기 &lt;/li&gt;
+&lt;li&gt;이른바 “주니어에 대한 기대치”에 집착하지 않기&lt;/li&gt;
+&lt;li&gt;내가 회사에 어떠한 가치를 제공해줄 수 있는가 생각하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;학습은 절대 Linear하지 않습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;처음부터 100% 학습 불과&lt;/li&gt;
+&lt;li&gt;많이 할 수록 점차 알아감  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;할 일을 만들어라&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2% 부족한 점을 찾고 추가하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;링크드인 글을 많이 올려보자! =&gt; 인맥과 취업 통로에 좋다 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;후기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9B%84%EA%B8%B0&quot; aria-label=&quot;후기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;후기&lt;/h3&gt;
+&lt;p&gt;전 회사에서 신입을 뽑기 위해 면접에 여러 번 참여할 기회가 있었다.
+면접관의 입장에서 지원자를 평가할 때 눈에 띈다고 생각했던 지원자들은 단순 암기식으로 대답하는 사람들이 아니라
+해당 용어나 개념에 대해서 골몰해보았고 자신의 언어로 표현할 줄 아는 사람이었다. 그 덕에 다시 취준생으로 돌아온
+지금 면접 준비를 어떻게 해야 할 지 감을 잡을 수 있었다. 새롭게 알게 되었거나 가물가물해진 개념들이 있는데 코딩
+하면서 찾게 된다면 요리조리 뜯어보고 조립해 보는 기회로 삼아야겠다.
+나는 테스트 주도 개발과 인터렉티브 웹에 관심이 있다. 그러나 그 관심을 증명할 프로젝트 혹은 글, 영상이 없다.
+아무리 나는 관심이 있다고 호소해도 눈으로 보여지는 결과물이 없다면 소용없다. 토이 프로젝트 등을 통해 블로그/SNS 그리고
+유튜브 매체를 활용하여 조금씩 나는 이런 사람임을 보여주자.
+TDD 관련 책과 인터렉션 강좌를 2월 달 안으로 끝내고 이를 바탕으로 프로젝트를 진행할 생각이다.
+어떤 식으로 나를 PR해야 하는가.
+프로젝트 하면서 어떤 식으로 테스트를 작성해왔고, 어떤 문제를 부딪혔을 때 어떤 사고과정과 참고자료로 해결했는지를 통해
+‘문제 해결력이 있는 개발자’, ‘안정성, 확장성, 유지보수성을 추구하는 개발자’를 보여준다.
+재밌는, 신기한 인터렉션을 보여주는 사이트가 있으면 보관해뒀다가 ‘클론’하여 그 방법/과정을 작성하고 영상으로 제작하여
+공유한다.
+&lt;/p&gt;</content:encoded></item><item><title><![CDATA[08]]></title><description><![CDATA[노마드 투두리스트 대회 참여 1. 결과물 URL https://pjaeyoung.github.io/momontum/ intro
 main_1
 main_2…]]></description><link>https://pjaeyoung.github.io/Dev/08/</link><guid isPermaLink="false">https://pjaeyoung.github.io/Dev/08/</guid><pubDate>Tue, 16 Feb 2021 00:02:36 GMT</pubDate><content:encoded>&lt;h2 id=&quot;노마드-투두리스트-대회-참여&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%85%B8%EB%A7%88%EB%93%9C-%ED%88%AC%EB%91%90%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%9A%8C-%EC%B0%B8%EC%97%AC&quot; aria-label=&quot;노마드 투두리스트 대회 참여 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;노마드 투두리스트 대회 참여&lt;/h2&gt;
 &lt;h3 id=&quot;1-결과물-url&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EA%B2%B0%EA%B3%BC%EB%AC%BC-url&quot; aria-label=&quot;1 결과물 url permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 결과물 URL&lt;/h3&gt;
