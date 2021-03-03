@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Mar 2021 14:28:58 GMT</lastBuildDate><item><title><![CDATA[16]]></title><description><![CDATA[프로그래머스 FE 과제 지원하기 프로그래머스에서 2021년 첫 Dev-Matching으로 FE 과제전형을 진행한다. 신청하고 난 후에야 여기저기서 FE…]]></description><link>https://pjaeyoung.github.io/challenge30/16/</link><guid isPermaLink="false">https://pjaeyoung.github.io/challenge30/16/</guid><pubDate>Tue, 02 Mar 2021 22:03:36 GMT</pubDate><content:encoded>&lt;h2 id=&quot;프로그래머스-fe-과제-지원하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-fe-%EA%B3%BC%EC%A0%9C-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0&quot; aria-label=&quot;프로그래머스 fe 과제 지원하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로그래머스 FE 과제 지원하기&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 03 Mar 2021 13:58:07 GMT</lastBuildDate><item><title><![CDATA[17]]></title><description><![CDATA[FE 과제 도중 만난 헷갈리는 개념 1. Async / Await 함수 정의 시 맨 앞에 를 쓰면  값은  객체다. 직접  객체를 반환하지 않고 일반적인 값 (가령 숫자 10)을 반환하면 이행된  객체로 반환된다.  console.log…]]></description><link>https://pjaeyoung.github.io/challenge30/17/</link><guid isPermaLink="false">https://pjaeyoung.github.io/challenge30/17/</guid><pubDate>Wed, 03 Mar 2021 21:04:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;fe-과제-도중-만난-헷갈리는-개념&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#fe-%EA%B3%BC%EC%A0%9C-%EB%8F%84%EC%A4%91-%EB%A7%8C%EB%82%9C-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-%EA%B0%9C%EB%85%90&quot; aria-label=&quot;fe 과제 도중 만난 헷갈리는 개념 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;FE 과제 도중 만난 헷갈리는 개념&lt;/h2&gt;
+&lt;h3 id=&quot;1-async--await&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-async--await&quot; aria-label=&quot;1 async  await permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Async / Await&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;함수 정의 시 맨 앞에 &lt;code class=&quot;language-text&quot;&gt;async&lt;/code&gt;를 쓰면 &lt;code class=&quot;language-text&quot;&gt;return&lt;/code&gt; 값은 &lt;code class=&quot;language-text&quot;&gt;Promise&lt;/code&gt; 객체다. 직접 &lt;code class=&quot;language-text&quot;&gt;Promise&lt;/code&gt; 객체를 반환하지 않고 일반적인 값 (가령 숫자 10)을 반환하면 이행된 &lt;code class=&quot;language-text&quot;&gt;Promise&lt;/code&gt; 객체로 반환된다. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;returnPromise10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;console.log(returnPromise10()); // Promise{&lt;fullfilled&gt; : 10}&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- `await`은 반드시 `async`와 함께 사용해야 하며 `Promise`가 이행 되기 전까지 코드 진행을 멈춘다. `await`이 속한 함수 내에서 코드가 실행되지 않는다는 말일 뿐 해당 함수 밖의 코드는 계속 실행된다(논블로킹);
+- 스택을 여러 개 쌓아올렸을 때(함수 안에 여러 번 함수를 호출한 경우) 맨 위의 호출된 함수에서 `await`을 사용했다고 해서 중간에 `await`을 빼먹어도 되는 것은 아니다. 앞서 말했든 `await`의 제어 범위는 `await`이 속한 함수 안으로 제한되기 때문이다! 
+
+```js
+async function asyncFunc3() {
+    return new Promise((resolve)=&amp;gt;{
+        setTimeout(()=&amp;gt;resolve(&amp;quot;asyncFunc3&amp;quot;), 2000);
+    }
+    )
+}
+
+async function asyncFunc2() {
+    const res = await asyncFunc3(); 
+    return res + &amp;quot; asyncFunc2&amp;quot;;
+
+}
+
+async function asyncFunc1() {
+    const res = asyncFunc2(); // 내부 함수 asyncFunc2에서 await을 썼다고 39번째 줄에서 멈추지 않는다. 
+    console.log(res + &amp;quot; asyncFunc1&amp;quot;);
+}
+
+asyncFunc1(); // [object Promise] asyncFunc1&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;2-error-handling&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-error-handling&quot; aria-label=&quot;2 error handling permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Error Handling&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6&quot;&gt;미디엄 - Handling Errors in JavaScript: The Definitive Guide&lt;/a&gt; 글을 읽고 요약&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;error를 state로 보관하기 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;에러 케이스별 프론트 엔드 대응&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;글로벌 에러 - 백엔드 : 독립적인 alert ui로 표시됨, &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;로컬 에러 - 백엔드 : 다른 ui와 같이 사용(가령, input창 아래에 빨간 경고글), 백엔드에서 확인해야만 하는 에러 케이스(가령, 로그인 시 이메일 정보 오류)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;로컬 에러 - 프론트엔드 : 다른 ui와 같이 사용(가령, input창 아래에 빨간 경고글), 프론트엔드에서 자체 검증가능한 에러(가령, 로그인 시 이메일 양식 오류)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;try catch&lt;/code&gt;문에서 &lt;code class=&quot;language-text&quot;&gt;console.error&lt;/code&gt;는 옛날 방식이다. 디버깅을 위한다면 production에서는 콘솔창에 보이지 않는 &lt;a href=&quot;https://www.npmjs.com/package/loglevel&quot;&gt;loglevel&lt;/a&gt; 을 사용할 것!&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[16]]></title><description><![CDATA[프로그래머스 FE 과제 지원하기 프로그래머스에서 2021년 첫 Dev-Matching으로 FE 과제전형을 진행한다. 신청하고 난 후에야 여기저기서 FE…]]></description><link>https://pjaeyoung.github.io/challenge30/16/</link><guid isPermaLink="false">https://pjaeyoung.github.io/challenge30/16/</guid><pubDate>Tue, 02 Mar 2021 22:03:36 GMT</pubDate><content:encoded>&lt;h2 id=&quot;프로그래머스-fe-과제-지원하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-fe-%EA%B3%BC%EC%A0%9C-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0&quot; aria-label=&quot;프로그래머스 fe 과제 지원하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로그래머스 FE 과제 지원하기&lt;/h2&gt;
 &lt;p&gt;프로그래머스에서 2021년 첫 Dev-Matching으로 FE 과제전형을 진행한다. 신청하고 난 후에야 여기저기서 FE과제 진행 일자(이번주 토요일)에 좋은 주제로 강연이 두 개나 잡혀있는 걸 알고 양자택일의 고통을 받는다. 취업이 최우선이기 때문에 강연은 포기하기로 한다. 원래 한 번만 맛보기로 FE 과제 테스트를 하고 그 외 시간엔 못 다한 &amp;#x3C;자바스크립트 패턴과 테스트&gt; 책을 독파할 계획이었다. 오늘 FE 과제 테스트를 하고 난 뒤 안일한 생각이었음을 깨달았다. 작은 웹사이트를 오랜만에 코딩하려니 까먹은 게 많아 허둥지둥하고 폭풍검색에 시간을 허비하였다. 결국 절반도 못 푼 채 제출했다. 토요일 전까지 FE 과제 테스트를 꼼꼼히 작업하고 모르는 부분 정리하는 시간을 가질 생각이다.  &lt;/p&gt;
 &lt;p&gt;FE 과제를 풀면서 놀란 건 작년에 자바스크립트 스터디에서 배웠던 vanilla javascript로 컴포넌트를 직접 구현하는 과정이 그대로 나와있다는 것이다. 각 컴포넌트(과제에선 클래스를 가리킴)에 제어할 DOM tag와 상태를 가지고 &lt;code class=&quot;language-text&quot;&gt;setState&lt;/code&gt;로 상태를 변경하면 &lt;code class=&quot;language-text&quot;&gt;render&lt;/code&gt;를 자동으로 호출하여 UI를 업데이트한다. 옛 기억이 새록새록해서 재밌었다. 아쉬운 건 prettier가 적용되지 않아 일일이 코드를 칠 때 들여쓰기를 해야해서 불편하다. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[15]]></title><description><![CDATA[자바스크립트 패턴과 테스트 팩토리는 객체를 생성하고 반환하는 함수(create…]]></description><link>https://pjaeyoung.github.io/challenge30/15/</link><guid isPermaLink="false">https://pjaeyoung.github.io/challenge30/15/</guid><pubDate>Sat, 27 Feb 2021 15:03:16 GMT</pubDate><content:encoded>&lt;h2 id=&quot;자바스크립트-패턴과-테스트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%A8%ED%84%B4%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8&quot; aria-label=&quot;자바스크립트 패턴과 테스트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;자바스크립트 패턴과 테스트&lt;/h2&gt;
 &lt;ul&gt;
