@@ -8,8 +8,8 @@ module.exports = {
     github: `pjaeyoung`, // Your GitHub account
     twitter: ``,
     medium: ``,
-    facebook: ``,
-    linkedin: ``,
+    facebook: `https://www.facebook.com/profile.php?id=100023984610431`,
+    linkedin: `https://www.linkedin.com/in/parkjaeyoung/`,
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
