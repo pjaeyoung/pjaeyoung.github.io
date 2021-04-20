@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Apr 2021 14:59:15 GMT</lastBuildDate><item><title><![CDATA[<개발자의 디자인 독해력> 독서 후기]]></title><description><![CDATA[IMG_20210414_115804 이 책의 부제목이 제 눈길을 사로잡았습니다. ‘디자인 감각을 키우고 싶은 IT…]]></description><link>https://pjaeyoung.github.io/uiux/&lt;개발자의-디자인-독해력&gt;-독서-후기/</link><guid isPermaLink="false">https://pjaeyoung.github.io/uiux/&lt;개발자의-디자인-독해력&gt;-독서-후기/</guid><pubDate>Fri, 16 Apr 2021 22:05:07 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115249872-02c1f800-a164-11eb-8d42-a249ddc3a31c.jpg&quot; alt=&quot;IMG_20210414_115804&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Apr 2021 05:37:54 GMT</lastBuildDate><item><title><![CDATA[<개발자의 디자인 독해력> 독서 후기]]></title><description><![CDATA[IMG_20210414_115804 이 책의 부제목이 제 눈길을 사로잡았습니다. ‘디자인 감각을 키우고 싶은 IT…]]></description><link>https://pjaeyoung.github.io/uiux/&lt;개발자의-디자인-독해력&gt;-독서-후기/</link><guid isPermaLink="false">https://pjaeyoung.github.io/uiux/&lt;개발자의-디자인-독해력&gt;-독서-후기/</guid><pubDate>Fri, 16 Apr 2021 22:05:07 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115249872-02c1f800-a164-11eb-8d42-a249ddc3a31c.jpg&quot; alt=&quot;IMG_20210414_115804&quot;&gt;&lt;/p&gt;
 &lt;p&gt;이 책의 부제목이 제 눈길을 사로잡았습니다. &lt;strong&gt;‘디자인 감각을 키우고 싶은 IT개발자를 위한 눈높이 디자인 강좌’&lt;/strong&gt;, 그 개발자가 바로 저를 가리키는 말이기 때문이죠. 책을 읽으면서 디자인이 단순히 감, 느낌으로만 만들어지는 게 아니라 사용자의 경험에 기반한 어떤 규칙들이 존재한다는 사실을 배울 수 있었습니다.&lt;/p&gt;
 &lt;p&gt;이 책에서 개인적으로 좋았던 디자인 팁들을 몇가지를 소개해보자면 아래와 같습니다.&lt;/p&gt;
 &lt;h2 id=&quot;색상&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%83%89%EC%83%81&quot; aria-label=&quot;색상 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;색상&lt;/h2&gt;
@@ -76,6 +76,33 @@
 &lt;figure style=&quot;display:flex;flex-direction:column;justify-content:center; align-items:center;&quot;&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115257310-ee352e00-a16a-11eb-9d86-617c0449efcc.png&quot; alt=&quot;시선의 흐름이 원할한 예&quot;&gt;
 &lt;figcaption style=&quot;color:grey;font-size:12px;&quot;&gt; dribbble - &lt;a href=&quot;https://dribbble.com/shots/15490199-Doiron-Fine-Foods&quot;&gt;Natashya V 작품&lt;/a&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;주로 굵고 크기가 큰 글씨체에 시선이 갑니다. 그래서 아래처럼 큰 글씨를 중심으로 주변 텍스트를 배치하면 좋습니다.&lt;/p&gt;
+&lt;figure style=&quot;display:flex;flex-direction:column;justify-content:center; align-items:center;&quot;&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115341738-17de6b80-a1e4-11eb-88bc-dd9e363e79c1.png&quot; alt=&quot;가장 큰 글씨체를 가진 텍스트 기준으로 정렬&quot;&gt;
+&lt;figcaption style=&quot;color:grey;font-size:12px;&quot;&gt; dribbble - &lt;a href=&quot;https://dribbble.com/shots/15467278-Teens-Ministry-Website&quot;&gt; hitRefresh 
+&lt;/a&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;사진이나 그림에 건물이 들어있다면 건물 끝을 기준 삼아 정렬하는 것도 좋습니다.&lt;/p&gt;
+&lt;figure style=&quot;display:flex;flex-direction:column;justify-content:center; align-items:center;&quot;&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115339623-1f9c1100-a1e0-11eb-9285-3a195034655a.png&quot; alt=&quot;건물 선에 맞춰 텍스트 배치&quot;&gt;
+&lt;figcaption style=&quot;color:grey;font-size:12px;&quot;&gt; awwwards - &lt;a href=&quot;https://www.awwwards.com/sites/hoepfner-brau&quot;&gt;Hoepfner Bräu
+&lt;/a&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;시선의 우선순위를 매겨보면 아래와 같습니다.&lt;/p&gt;
+&lt;h2 id=&quot;무게-균형&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AC%B4%EA%B2%8C-%EA%B7%A0%ED%98%95&quot; aria-label=&quot;무게 균형 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;무게 균형&lt;/h2&gt;
+&lt;p&gt;우리의 뇌는 크기가 클수록 색상이 짙어질수록 무게감이 있다고 생각합니다. 아래 웹페이지는 이러한 특징을 잘 반영했습니다.
+우측 아래의 텍스트 크기가 거대해서 자칫하면 한쪽으로 쏠린 듯한 느낌을 줄 수 있습니다. 그래서 좌측 상단에 어두운 모형을 두어 균형을 맞췄습니다.&lt;/p&gt;
+&lt;figure style=&quot;display:flex;flex-direction:column;justify-content:center; align-items:center;&quot;&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/47022167/115340422-97b70680-a1e1-11eb-84e1-48d307682363.png&quot; alt=&quot;크기와 진하기로 무게 균형 맞춘 예&quot;&gt;
+&lt;figcaption style=&quot;color:grey;font-size:12px;&quot;&gt; awwwards - &lt;a href=&quot;https://www.awwwards.com/sites/jonas-reymondin-portfolio20&quot;&gt; Jonas Reymondin 작품
+&lt;/a&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;</content:encoded></item><item><title><![CDATA[마우스커서 따라다니기]]></title><description><![CDATA[awdagency.com 사이트에서 커서 모션 애니메이션이 눈에 띄어 따라 만들어봤습니다. 커스텀 마우스 커서를 만들기 위해서 먼저 css…]]></description><link>https://pjaeyoung.github.io/uiux/마우스커서-따라다니기/</link><guid isPermaLink="false">https://pjaeyoung.github.io/uiux/마우스커서-따라다니기/</guid><pubDate>Tue, 13 Apr 2021 16:04:41 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/47022167/114526265-ca14b100-9c81-11eb-999c-25cc35eb33ee.gif&quot; alt=&quot;마우스를 부드럽게 따라다니는 커스텀 커서&quot;&gt;
 &lt;/figure&gt;
