@@ -2,7 +2,10 @@
 title: eye tracking
 date: 2021-04-23 21:04:39
 category: uiux
-thumbnail: { thumbnailSrc }
+thumbnail:
+  {
+    thumbnailSrc:"https://user-images.githubusercontent.com/47022167/115872035-4bd3be00-a47c-11eb-9d3b-63d687bfa631.gif",
+  }
 draft: false
 ---
 
