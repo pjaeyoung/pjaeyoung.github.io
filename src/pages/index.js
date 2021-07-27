@@ -4,8 +4,7 @@ import React, { useMemo } from 'react'
 import { Bio } from '../components/bio'
 import { Category } from '../components/category'
 import { Contents } from '../components/contents'
-import { Head } from '../components/head'
-import { HOME_TITLE } from '../constants'
+import { Header } from '../components/header'
 import { useCategory } from '../hooks/useCategory'
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver'
 import { useRenderedCount } from '../hooks/useRenderedCount'
@@ -44,10 +43,14 @@ export default ({ data, location }) => {
     })()
   })
 
+  const rootPath = `${__PATH_PREFIX__}/`
+
   return (
     <Layout location={location} title={siteMetadata.title}>
-      <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
-      <Bio />
+      <div style={{ display: "flex", justifyContent: "flex-start" }}>
+        <Header title={siteMetadata.title} location={location} rootPath={rootPath} />
+        <Bio />
+      </div>
       <Category
         categories={categories}
         category={category}
