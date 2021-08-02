@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 02 Aug 2021 14:59:51 GMT</lastBuildDate><item><title><![CDATA[20210802]]></title><link>https://pjaeyoung.github.io/til/&quot;20210802&quot;/</link><guid isPermaLink="false">https://pjaeyoung.github.io/til/&quot;20210802&quot;/</guid><pubDate>Mon, 02 Aug 2021 23:09:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[20210801]]></title><description><![CDATA[학습 방향 전환 적용하기 커리어 스킬에서 가르쳐준 방식대로 기술을 학습하기 전 학습주제, 학습목표, 학습 이유, 목표 달성 측정방법, 학습목차 를 만들었다. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DODO's DEV LOG]]></title><description><![CDATA[daily life, development, reading, etc.]]></description><link>https://pjaeyoung.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 02 Aug 2021 15:26:26 GMT</lastBuildDate><item><title><![CDATA[20210802]]></title><description><![CDATA[…]]></description><link>https://pjaeyoung.github.io/til/&quot;20210802&quot;/</link><guid isPermaLink="false">https://pjaeyoung.github.io/til/&quot;20210802&quot;/</guid><pubDate>Mon, 02 Aug 2021 23:09:18 GMT</pubDate><content:encoded>&lt;h2 id=&quot;커리어리-습관-챌린지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%A6%AC-%EC%8A%B5%EA%B4%80-%EC%B1%8C%EB%A6%B0%EC%A7%80&quot; aria-label=&quot;커리어리 습관 챌린지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;커리어리 습관 챌린지&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;둘 째주 첫 글은 디버깅에 대한 오해와 올바른 사용법에 대한 내용이다.&lt;/li&gt;
+&lt;li&gt;해당 내용은 &amp;#x3C;커리어 스킬&gt; 책에서 발췌했다.&lt;/li&gt;
+&lt;li&gt;핵심 문장은 바로 “디버깅을 할 때 디버거를 쓰지 말라” 이다.&lt;/li&gt;
+&lt;li&gt;오류가 발생했을 때 앞뒤 맥락없이 무조건 디버거를 쓰는 사람? 바로 나!&lt;/li&gt;
+&lt;li&gt;목적도 없이 디버거로 코드 한줄 한줄 따라가며 값의 변화를 추적하다 우연히 잘못된 부분을 찾는다면 다행이다.&lt;/li&gt;
+&lt;li&gt;그런데 간헐적으로 발생하는 오류라면 이 방식은 매우 비효율적이다.&lt;/li&gt;
+&lt;li&gt;그리고 문제의 원인과 결과 그리고 해결을 명확히 하지 못해 추후에도 비슷한 오류가 생기면 이전에 했던 방식을 반복할 것이다.&lt;/li&gt;
+&lt;li&gt;그래서 디버거를 쓰는 대신 논리적으로 가설을 세우고 가설을 검증하기 위한 테스트를 진행할 것을 권장한다.&lt;/li&gt;
+&lt;li&gt;디버거는 최후의 보류로 남겨야 한다!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;jest-공부&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#jest-%EA%B3%B5%EB%B6%80&quot; aria-label=&quot;jest 공부 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Jest 공부&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q. 모킹이 무엇인가?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;불확실성과 변동성이 존재하는 외부 환경(Network, I/O)을 통제하고 고차함수의 내부 로직을 단순화하여 테스트하기 용이하게 만들어주기 위해 실제 객체인척하는 가짜 객체를 바꿔치기하는 매커니즘을 제공한다.&lt;/li&gt;
+&lt;li&gt;가짜 객체는 내부 구현을 삭제하고 호출 순간을 캡처하여 호출 횟수나 호출시 넘겨준 인자값을 확인할 수 있고 반환값을 지정할 수 있다. 간단히 말하면 내부 구현은 무시한 채 입력과 출력에만 신경을 쓴다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q. Jest.fn 과 jest.spyOn 과 jest.mock의 차이?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jest.fn은 가짜 함수&lt;/li&gt;
+&lt;li&gt;jest.spyOn은 내부 구현은 그대로 두고 실제 객체의 호출여부를 추적할 수 있게 도와준다.&lt;/li&gt;
+&lt;li&gt;jest.mock은 모듈이 가진 모든 함수들을 가짜 함수로 대체한다. 테스트 코드에서 모듈을 모킹하는 방법과 &lt;code class=&quot;language-text&quot;&gt;__mock__&lt;/code&gt; 폴더에 모듈명과 동일한 이름의 파일을 생성하여 쓰는 방법이 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[20210801]]></title><description><![CDATA[학습 방향 전환 적용하기 커리어 스킬에서 가르쳐준 방식대로 기술을 학습하기 전 학습주제, 학습목표, 학습 이유, 목표 달성 측정방법, 학습목차 를 만들었다. 
 스크린샷, 2021-08-01 23-17-3…]]></description><link>https://pjaeyoung.github.io/til/&quot;20210801&quot;/</link><guid isPermaLink="false">https://pjaeyoung.github.io/til/&quot;20210801&quot;/</guid><pubDate>Sun, 01 Aug 2021 14:08:02 GMT</pubDate><content:encoded>&lt;h2 id=&quot;학습-방향-전환-적용하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%99%EC%8A%B5-%EB%B0%A9%ED%96%A5-%EC%A0%84%ED%99%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0&quot; aria-label=&quot;학습 방향 전환 적용하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;학습 방향 전환 적용하기&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;커리어 스킬에서 가르쳐준 방식대로 기술을 학습하기 전 학습주제, 학습목표, 학습 이유, 목표 달성 측정방법, 학습목차 를 만들었다.
